@@ -1,4 +1,4 @@
-package com.syncbridge.android.ui
+bripackage com.syncbridge.android.ui
 
 import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
